@@ -1,3 +1,1 @@
-So, this file is created to specify the no.of branches/commits that are done during the different phases of environments
-where the environments will be like QA envi, Prod envi, Pilot envi, Testing Envi etc.....
-
+sssssssssssssssssssssssssssssssssssssssssssssssssssss
